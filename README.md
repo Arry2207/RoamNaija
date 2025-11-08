@@ -3,13 +3,13 @@
 **RoamNaija** is a digital travel companion that simplifies interstate journeys across Nigeria.  
 It connects travelers with verified transport operators, provides real-time route insights, and builds a social experience around shared travel memories.
 
-RoamNaija was inspired by the informal systems Nigerians already use — bus parks, WhatsApp groups, and word of mouth — and turns them into one connected, trustworthy platform.
+RoamNaija was inspired by the informal systems Nigerians already use; bus parks, WhatsApp groups, word of mouth and turns them into one connected, trustworthy platform.
 
 ---
 
 ## 🚀 Overview
 
-Traveling across Nigeria can be stressful — inconsistent prices, unreliable transport schedules, and limited access to verified information.  
+Traveling across Nigeria can be stressful; inconsistent prices, unreliable transport schedules, and limited access to verified information.  
 **RoamNaija** bridges that gap by offering a simple way to:
 
 - Discover safe and reliable interstate routes  
@@ -56,7 +56,7 @@ Whether you’re heading from **Lagos to Abuja** or **Enugu to Port Harcourt**, 
 
 ## 🌍 Vision
 
-To create Nigeria’s first truly connected interstate travel ecosystem — one that empowers travelers with information, safety, and convenience while amplifying verified local transport networks.
+To create Nigeria’s first truly connected interstate travel ecosystem; one that empowers travelers with information, safety, and convenience while amplifying verified local transport networks.
 
 ---
 
